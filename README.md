@@ -6,4 +6,5 @@ This is a repository of projects that answer business questions with exploratory
 List of projects:
 
 1 - Laptop - Exploratory Data Analysis
+
 2 - Superstore - Complete Profit and Sales Analysis
